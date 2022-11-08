@@ -1,6 +1,6 @@
 # Last Pencil by Jetbrains
  a python project by jetbrains academy
-
+```
 
 pencil_numbers = input('How many pencils would you like to use: ')
 while True:
@@ -67,3 +67,4 @@ while True:
         if pencil_numbers <= 0:
             print(f'{p} won!')
             break
+```
